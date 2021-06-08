@@ -1,0 +1,59 @@
+Day: 1
+carma: 7
+Day: 2
+carma: 10
+Day: 3
+carma: 15
+Day: 4
+carma: 18
+Day: 5
+carma: 23
+DrunkError
+Day: 6
+carma: 26
+Day: 7
+carma: 27
+Day: 8
+carma: 32
+SuicideError
+Day: 9
+carma: 33
+Day: 10
+carma: 37
+Day: 11
+carma: 41
+CarCrushError
+Day: 12
+carma: 47
+DepressionError
+Day: 13
+carma: 53
+GluttonyError
+Day: 14
+carma: 53
+DrunkError
+Day: 15
+carma: 56
+Day: 16
+carma: 60
+Day: 17
+carma: 67
+Day: 18
+carma: 73
+IamGodError
+Day: 19
+carma: 74
+Day: 20
+carma: 78
+Day: 21
+carma: 80
+SuicideError
+Day: 22
+carma: 86
+Day: 23
+carma: 91
+Day: 24
+carma: 96
+Day: 25
+carma: 101
+Days amount: 25

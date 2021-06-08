@@ -1,0 +1,8 @@
+Иван Ivan@mail.ru 8 AgeError!!
+ee ee ee ee  too many values to unpack (expected 3)
+R2D2 r222mail@.ru 45 UserNameError!!
+Олег Olegmail.ru 18 MailError!!
+Сергей Sergey@mail.ru rr AgeValueError!!
+Александр Alexandr@mail.ru 110 AgeError!!
+Николай  not enough values to unpack (expected 3, got 1)
+Василий Vasil@mail.ru 8 AgeError!!
